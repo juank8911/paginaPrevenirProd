@@ -1,0 +1,1 @@
+function classToggle(){document.querySelector(".icon-cards__content").classList.toggle("step-animation")}document.addEventListener("DOMContentLoaded",(function(){var e=document.querySelectorAll(".carousel");M.Carousel.init(e,options)})),$(document).ready((function(){$(".carousel").carousel()}));
